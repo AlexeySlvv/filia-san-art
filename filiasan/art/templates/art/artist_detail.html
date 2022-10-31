@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ artist }}</title>
+</head>
+
+<body>
+
+    {% for data in data_list %}
+    <p>
+        <img src="{{ data.url }}" alt="{{ data.desc }}" width="800">
+        <br>
+        <b>{{ data.year }}</b> - <a href="{{ data.url }}">{{ data.desc }}</a>
+    </p>
+    {% endfor %}
+
+</body>
+
+</html>

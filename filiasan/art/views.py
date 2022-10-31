@@ -14,6 +14,9 @@ def artist_list(request):
 
 
 def artist_detail(request, artist):
-    return render(request, 'art/artist_list.html', context={
-        'artists': [artist],
+    with open('Art.json', encoding='utf-8', mode='r') as json_file:
+        data = json.load(json_file)
+    return render(request, 'art/artist_detail.html', context={
+        'artist': artist,
+        'data_list': data[artist],
     })
