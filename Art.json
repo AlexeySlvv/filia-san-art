@@ -2547,7 +2547,7 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LotusBud0048a.jpg"
         }
     ],
-    "": [
+    "_Others": [
         {
             "id": "322",
             "year": "2000",
@@ -18897,6 +18897,18 @@
             "year": "2015",
             "desc": "This is the view on the ferry to Aegina ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Piraeus_from_ferry_to_Aegina%2C_Greece.jpg"
+        },
+        {
+            "id": "1522",
+            "year": "",
+            "desc": "This art work is a dipiction of the creation of man ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/MANNapoli_6705_creation_of_the_man_sarcophagus.jpg"
+        },
+        {
+            "id": "1779",
+            "year": "",
+            "desc": "This art work is a dipiction of the creation of man ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/MANNapoli_6705_creation_of_the_man_sarcophagus.jpg"
         }
     ],
     "Rainer Lippert": [
@@ -26519,57 +26531,13 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%C3%89douard_Manet_-_Lilas_et_roses.jpg"
         }
     ],
-    "Gustav Klimt ": [
+    "Gustav Klimt": [
         {
             "id": "504",
             "year": "1907-1908",
             "desc": "A golden kiss of two lovers by Gustav Klimt ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
         },
-        {
-            "id": "511",
-            "year": "1901",
-            "desc": "A symbolist femme fatale with the head of Holofernes by Gustav Klimt",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gustav_Klimt_039.jpg/320px-Gustav_Klimt_039.jpg"
-        },
-        {
-            "id": "3808",
-            "year": "1902",
-            "desc": "Decorative piece depicting an allegory by Gustav Klimt ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Klimt_-_Bethovenfries_-_Mittelwand.jpeg/800px-Klimt_-_Bethovenfries_-_Mittelwand.jpeg"
-        },
-        {
-            "id": "3812",
-            "year": "1899",
-            "desc": "Landscape painting by Gustav Klimt",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gustav_Klimt_-_Tranquil_Pond_%28Egelsee_near_Golling%2C_Salzburg%29_-_Google_Art_Project.jpg/800px-Gustav_Klimt_-_Tranquil_Pond_%28Egelsee_near_Golling%2C_Salzburg%29_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "3814",
-            "year": "1907",
-            "desc": "Black and white panel depicting the allegory of jurisprudence by Gustav Klimt",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jurisprudence-final-state-1907.jpg/320px-Jurisprudence-final-state-1907.jpg"
-        },
-        {
-            "id": "3817",
-            "year": "1906",
-            "desc": "Portrait of a woman in oil on canvas by Gustav Klimt ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustav_Klimt_052.jpg/800px-Gustav_Klimt_052.jpg"
-        },
-        {
-            "id": "3823",
-            "year": "1913",
-            "desc": "Portrait by Gustav Klimt of a woman with an uncertain posture, surrounded by decorative elements.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Klimt_-_Bildnis_Eugenia_Primaesi.jpg/320px-Klimt_-_Bildnis_Eugenia_Primaesi.jpg"
-        },
-        {
-            "id": "3827",
-            "year": "1905",
-            "desc": "Work painted by Gustav Klimt showing a green landscape with fruit trees and light effects. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg"
-        }
-    ],
-    "Gustav Klimt": [
         {
             "id": "505",
             "year": "1909",
@@ -26607,6 +26575,12 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Schubert-Klimt.jpg/800px-Schubert-Klimt.jpg"
         },
         {
+            "id": "511",
+            "year": "1901",
+            "desc": "A symbolist femme fatale with the head of Holofernes by Gustav Klimt",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gustav_Klimt_039.jpg/320px-Gustav_Klimt_039.jpg"
+        },
+        {
             "id": "2744",
             "year": "1916",
             "desc": "The title of this image is a Portrait of Friederike Maria Beer",
@@ -26623,6 +26597,12 @@
             "year": "",
             "desc": "The image seen is the signature of an artist ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Klimt%2C_Gustav_Signatur_Signatur.jpg"
+        },
+        {
+            "id": "3808",
+            "year": "1902",
+            "desc": "Decorative piece depicting an allegory by Gustav Klimt ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Klimt_-_Bethovenfries_-_Mittelwand.jpeg/800px-Klimt_-_Bethovenfries_-_Mittelwand.jpeg"
         },
         {
             "id": "3809",
@@ -26643,10 +26623,22 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gustav_Klimt_-_Blind_Man_-_Google_Art_Project.jpg/320px-Gustav_Klimt_-_Blind_Man_-_Google_Art_Project.jpg"
         },
         {
+            "id": "3812",
+            "year": "1899",
+            "desc": "Landscape painting by Gustav Klimt",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gustav_Klimt_-_Tranquil_Pond_%28Egelsee_near_Golling%2C_Salzburg%29_-_Google_Art_Project.jpg/800px-Gustav_Klimt_-_Tranquil_Pond_%28Egelsee_near_Golling%2C_Salzburg%29_-_Google_Art_Project.jpg"
+        },
+        {
             "id": "3813",
             "year": "1907",
             "desc": "Black and white panel depicting the allegory of philosophy by Gustav Klimt",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Philosophy-final-state-1907.jpg/320px-Philosophy-final-state-1907.jpg"
+        },
+        {
+            "id": "3814",
+            "year": "1907",
+            "desc": "Black and white panel depicting the allegory of jurisprudence by Gustav Klimt",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jurisprudence-final-state-1907.jpg/320px-Jurisprudence-final-state-1907.jpg"
         },
         {
             "id": "3815",
@@ -26659,6 +26651,12 @@
             "year": "1905",
             "desc": "Allegorical painting of women by Gustav Klimt",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gustav_Klimt_020.jpg/800px-Gustav_Klimt_020.jpg"
+        },
+        {
+            "id": "3817",
+            "year": "1906",
+            "desc": "Portrait of a woman in oil on canvas by Gustav Klimt ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustav_Klimt_052.jpg/800px-Gustav_Klimt_052.jpg"
         },
         {
             "id": "3818",
@@ -26691,6 +26689,12 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gustav-Klimt-The-Virgin.jpg/800px-Gustav-Klimt-The-Virgin.jpg"
         },
         {
+            "id": "3823",
+            "year": "1913",
+            "desc": "Portrait by Gustav Klimt of a woman with an uncertain posture, surrounded by decorative elements.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Klimt_-_Bildnis_Eugenia_Primaesi.jpg/320px-Klimt_-_Bildnis_Eugenia_Primaesi.jpg"
+        },
+        {
             "id": "3824",
             "year": "1916",
             "desc": "Portrait by Gustav Klimt of a woman surrounded by ornamental figures decorating the wall.",
@@ -26707,6 +26711,12 @@
             "year": "1916-1917",
             "desc": "Portrait of an anonymous woman in oil on canvas by Gustav Klimt. ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gustav_Klimt_061.jpg/320px-Gustav_Klimt_061.jpg"
+        },
+        {
+            "id": "3827",
+            "year": "1905",
+            "desc": "Work painted by Gustav Klimt showing a green landscape with fruit trees and light effects. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg"
         },
         {
             "id": "3828",
@@ -27885,7 +27895,7 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/USA_Antelope-Canyon.jpg"
         }
     ],
-    "NASA/JPL/Cornell University, ": [
+    "NASA/JPL/Cornell University,": [
         {
             "id": "570",
             "year": "2003",
@@ -32677,15 +32687,13 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg/800px-Joaqu%C3%ADn_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
         }
     ],
-    "Kazimir Malevich ": [
+    "Kazimir Malevich": [
         {
             "id": "871",
             "year": "1931",
             "desc": "Malevich's work defined by color and figuration framed in a Suprematist aesthetic.",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%D0%9A%D0%B0%D0%B7%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D0%B0%D0%BB%D0%B5%D0%B2%D0%B8%D1%87_%E2%80%94_%D0%92%D0%B0%D0%B6%D0%BA%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D1%87%D1%83%D1%82%D1%82%D1%8F.jpg/800px-%D0%9A%D0%B0%D0%B7%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D0%B0%D0%BB%D0%B5%D0%B2%D0%B8%D1%87_%E2%80%94_%D0%92%D0%B0%D0%B6%D0%BA%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D1%87%D1%83%D1%82%D1%82%D1%8F.jpg"
-        }
-    ],
-    "Kazimir Malevich": [
+        },
         {
             "id": "872",
             "year": "1913",
@@ -33459,12 +33467,1038 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Still_life%2C_flowers_in_a_blue_jug_-_William_Buelow_Gould_c1840.jpg"
         }
     ],
-    "Edvard Munch ": [
+    "Edvard Munch": [
         {
             "id": "975",
             "year": "1894-1895",
             "desc": "This ia a painting of Modonna by Edvard Munch.",
             "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg"
+        },
+        {
+            "id": "2612",
+            "year": "between 1920 and 1923",
+            "desc": "The title of this art work is Two women in the woods at Ekely",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Edvard_Munch_-_Two_women_in_the_woods_at_Ekely_%281920%E2%80%9323%29.jpg"
+        },
+        {
+            "id": "2781",
+            "year": "1893",
+            "desc": "Expressionist portrait by Edvard Munch considered one of the most important works in the history of art. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/800px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
+        },
+        {
+            "id": "2782",
+            "year": "1894",
+            "desc": "Impressionist Portrait of the Virgin Mary by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2783",
+            "year": "1907",
+            "desc": "Edvard Munch's work narrating the suffering of his older sister.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg/800px-Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg"
+        },
+        {
+            "id": "2784",
+            "year": "1895",
+            "desc": "Expressionist painting depicting the passion of lovers by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edvard_Munch_-_Ashes_%281895%29.jpg/800px-Edvard_Munch_-_Ashes_%281895%29.jpg"
+        },
+        {
+            "id": "2785",
+            "year": "1899-1900",
+            "desc": "Expressionist painting by Edvard Munch depicting different generations at a ball.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg/800px-Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg"
+        },
+        {
+            "id": "2786",
+            "year": "1892",
+            "desc": "Painting by Edvard Munch inspired by the Russian gambler Dostoevsky.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2787",
+            "year": "1893",
+            "desc": "Painting by Edvard Munch showing death in the room of the sick woman",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2788",
+            "year": "1893",
+            "desc": "Oil painting on canvas by Edvard Munch depicting a night landscape.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG/800px-%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG"
+        },
+        {
+            "id": "2789",
+            "year": "1894",
+            "desc": "Symbolist painting by Edvard Munch that later became known as expressionism.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2790",
+            "year": "1895",
+            "desc": "The expressionist artist, Edvard Munch, has depicted love and pain through the figure of a vampire. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2791",
+            "year": "1896",
+            "desc": "Painting by Edvard Munch depicting the loss of a man",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_Separation_-_Google_Art_Project.jpg/796px-Edvard_Munch_-_Separation_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2792",
+            "year": "1896",
+            "desc": "Expressionist painting by Edvard Munch with a woman in the foreground and cold colors.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2793",
+            "year": "1899-1900",
+            "desc": "Painting by Edvard Munch representing passion and purity.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2794",
+            "year": "1900",
+            "desc": "Religious-themed painting with expressionist treatment by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Edvard_Munch_-_Golgotha_%281900%29.jpg/800px-Edvard_Munch_-_Golgotha_%281900%29.jpg"
+        },
+        {
+            "id": "2795",
+            "year": "1910-1911",
+            "desc": "Colorful painting by Edvard Munch reminiscent of the aesthetics of mosaics. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg/1024px-Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2796",
+            "year": "1907",
+            "desc": "Depiction of Jealousy, the darker side of love, by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2797",
+            "year": "1903",
+            "desc": "Expressionist painting by Edvard Munch with erratic brushstrokes and morbid appearance.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2798",
+            "year": "1910-1912",
+            "desc": "Painting by Edvard Munch with a horse in the center of the composition",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2799",
+            "year": "1912",
+            "desc": "Edvard Munch's landscape painting characterized by light and bright colors.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2800",
+            "year": "1913-1914",
+            "desc": "Expressionist painting by Edvard Munch depicting the symptoms of modern society",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2801",
+            "year": "1844-1845",
+            "desc": "Portrait with expressive strokes by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puberty_%281894-95%29_by_Edvard_Munch.jpg/800px-Puberty_%281894-95%29_by_Edvard_Munch.jpg"
+        },
+        {
+            "id": "2802",
+            "year": "1896",
+            "desc": "Expressionist painting by Edvard Munch reflecting the importance of the muses in his art.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch%2C_Lady_from_the_sea.jpg"
+        },
+        {
+            "id": "2803",
+            "year": "1913-1914",
+            "desc": "Edvard Munch's painting depicting a nude woman in an uncomfortable and unusual pose.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2804",
+            "year": "1906",
+            "desc": "Psychological Self-Portrait by Edvard Munch ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2805",
+            "year": "1940-1943",
+            "desc": "Munch's work depicting old age and loneliness through a self-portrait",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG/800px-Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG"
+        },
+        {
+            "id": "2806",
+            "year": "1900",
+            "desc": " Painting representing the modernization of society by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2807",
+            "year": "1904",
+            "desc": "Landscape painting in warm colors reflecting restlessness by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpgg"
+        },
+        {
+            "id": "2808",
+            "year": "1930",
+            "desc": "Winter painting composed of cold colors, with triangular position by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG/800px-%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG"
+        },
+        {
+            "id": "2809",
+            "year": "1922",
+            "desc": "Night landscape painting centered on the starry sky by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg/800px-Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg"
+        },
+        {
+            "id": "2810",
+            "year": "1918",
+            "desc": "Landscape based on curved lines by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg/800px-Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg"
+        },
+        {
+            "id": "2979",
+            "year": "1893",
+            "desc": "Expressionist portrait by Edvard Munch considered one of the most important works in the history of art. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/800px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
+        },
+        {
+            "id": "2980",
+            "year": "1894",
+            "desc": "Impressionist Portrait of the Virgin Mary by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2981",
+            "year": "1907",
+            "desc": "Edvard Munch's work narrating the suffering of his older sister.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg/800px-Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg"
+        },
+        {
+            "id": "2982",
+            "year": "1895",
+            "desc": "Expressionist painting depicting the passion of lovers by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edvard_Munch_-_Ashes_%281895%29.jpg/800px-Edvard_Munch_-_Ashes_%281895%29.jpg"
+        },
+        {
+            "id": "2983",
+            "year": "1899-1900",
+            "desc": "Expressionist painting by Edvard Munch depicting different generations at a ball.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg/800px-Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg"
+        },
+        {
+            "id": "2984",
+            "year": "1892",
+            "desc": "Painting by Edvard Munch inspired by the Russian gambler Dostoevsky.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2985",
+            "year": "1893",
+            "desc": "Painting by Edvard Munch showing death in the room of the sick woman",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2986",
+            "year": "1893",
+            "desc": "Oil painting on canvas by Edvard Munch depicting a night landscape.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG/800px-%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG"
+        },
+        {
+            "id": "2987",
+            "year": "1894",
+            "desc": "Symbolist painting by Edvard Munch that later became known as expressionism.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2988",
+            "year": "1895",
+            "desc": "The expressionist artist, Edvard Munch, has depicted love and pain through the figure of a vampire. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2989",
+            "year": "1896",
+            "desc": "Painting by Edvard Munch depicting the loss of a man",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_Separation_-_Google_Art_Project.jpg/796px-Edvard_Munch_-_Separation_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2990",
+            "year": "1896",
+            "desc": "Expressionist painting by Edvard Munch with a woman in the foreground and cold colors.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2991",
+            "year": "1899-1900",
+            "desc": "Painting by Edvard Munch representing passion and purity.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2992",
+            "year": "1900",
+            "desc": "Religious-themed painting with expressionist treatment by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Edvard_Munch_-_Golgotha_%281900%29.jpg/800px-Edvard_Munch_-_Golgotha_%281900%29.jpg"
+        },
+        {
+            "id": "2993",
+            "year": "1910-1911",
+            "desc": "Colorful painting by Edvard Munch reminiscent of the aesthetics of mosaics. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg/1024px-Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2994",
+            "year": "1907",
+            "desc": "Depiction of Jealousy, the darker side of love, by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2995",
+            "year": "1903",
+            "desc": "Expressionist painting by Edvard Munch with erratic brushstrokes and morbid appearance.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2996",
+            "year": "1910-1912",
+            "desc": "Painting by Edvard Munch with a horse in the center of the composition",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2997",
+            "year": "1912",
+            "desc": "Edvard Munch's landscape painting characterized by light and bright colors.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2998",
+            "year": "1913-1914",
+            "desc": "Expressionist painting by Edvard Munch depicting the symptoms of modern society",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "2999",
+            "year": "1844-1845",
+            "desc": "Portrait with expressive strokes by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puberty_%281894-95%29_by_Edvard_Munch.jpg/800px-Puberty_%281894-95%29_by_Edvard_Munch.jpg"
+        },
+        {
+            "id": "3000",
+            "year": "1896",
+            "desc": "Expressionist painting by Edvard Munch reflecting the importance of the muses in his art.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch%2C_Lady_from_the_sea.jpg"
+        },
+        {
+            "id": "3001",
+            "year": "1913-1914",
+            "desc": "Edvard Munch's painting depicting a nude woman in an uncomfortable and unusual pose.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "3002",
+            "year": "1906",
+            "desc": "Psychological Self-Portrait by Edvard Munch ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "3003",
+            "year": "1940-1943",
+            "desc": "Munch's work depicting old age and loneliness through a self-portrait",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG/800px-Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG"
+        },
+        {
+            "id": "3004",
+            "year": "1900",
+            "desc": " Painting representing the modernization of society by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "3005",
+            "year": "1904",
+            "desc": "Landscape painting in warm colors reflecting restlessness by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpgg"
+        },
+        {
+            "id": "3006",
+            "year": "1930",
+            "desc": "Winter painting composed of cold colors, with triangular position by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG/800px-%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG"
+        },
+        {
+            "id": "3007",
+            "year": "1922",
+            "desc": "Night landscape painting centered on the starry sky by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg/800px-Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg"
+        },
+        {
+            "id": "3008",
+            "year": "1918",
+            "desc": "Landscape based on curved lines by Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg/800px-Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg"
+        },
+        {
+            "id": "11175",
+            "year": "1892",
+            "desc": "Melancholy",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Munch_Melankoli_1892.jpg"
+        },
+        {
+            "id": "11176",
+            "year": "1900",
+            "desc": "Torvald Stang and Edvard Munch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Edvard_Munch_-_Torvald_Stang_and_Edvard_Munch_-_MM.M.00139_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11177",
+            "year": "1903",
+            "desc": "The Family ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Edvard_Munch_The_Family_Thielska_288.tif"
+        },
+        {
+            "id": "11178",
+            "year": "1907",
+            "desc": "The Sick Child",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Edvard_Munch_The_Sick_Child_Thielska_289.tif"
+        },
+        {
+            "id": "11179",
+            "year": "1903",
+            "desc": "On the Bridge",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Edvard_Munch_On_the_Bridge_Thielska_287.tif"
+        },
+        {
+            "id": "11180",
+            "year": "1905",
+            "desc": "Three Children",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Edvard_Munch_Three_Children_Thielska_290.tif"
+        },
+        {
+            "id": "11181",
+            "year": "1911",
+            "desc": "The Sun",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Solen_av_Edvard_Munch.jpg"
+        },
+        {
+            "id": "11182",
+            "year": "1906",
+            "desc": "The Oak ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edvard_Munch_The_Oak_Thielska_294.tif"
+        },
+        {
+            "id": "11183",
+            "year": "1894-1895",
+            "desc": "Madonna",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg"
+        },
+        {
+            "id": "11184",
+            "year": "1897",
+            "desc": "The Kiss",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11185",
+            "year": "1910",
+            "desc": "The Scream",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11186",
+            "year": "1894",
+            "desc": "Angst",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11187",
+            "year": "1898-1900",
+            "desc": "Red Virginia Creeper",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Edvard_Munch%2C_R%C3%B8d_villvin.JPG"
+        },
+        {
+            "id": "11188",
+            "year": "1909",
+            "desc": "Self-Portrait in the Clinc",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Edvard_Munch%2C_Selvportrett_fra_klinikken.JPG"
+        },
+        {
+            "id": "11189",
+            "year": "1894",
+            "desc": "Portrait of Helge Bäckström",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Edvard_Munch_Portrait_of_Helge_B%C3%A4ckstr%C3%B6m_Thielska_296b.tif"
+        },
+        {
+            "id": "11190",
+            "year": "1906",
+            "desc": "The Murderess",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Edvard_Munch_-_The_Murderess.jpg"
+        },
+        {
+            "id": "11191",
+            "year": "1895",
+            "desc": "Vampire",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11192",
+            "year": "1884",
+            "desc": "Morning",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Edvard_Munch_-_Morning_%281884%29.jpg"
+        },
+        {
+            "id": "11193",
+            "year": "1907",
+            "desc": "Jealousy",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Edvard_Munch_-_Jealousy_-_MM.M.00614_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11194",
+            "year": "1882",
+            "desc": "Laura Munch ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Edvard_Munch_-_Laura_Munch.jpg"
+        },
+        {
+            "id": "11195",
+            "year": "1902",
+            "desc": "Fertility",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Edvard_Munch_-_Fertility.jpg"
+        },
+        {
+            "id": "11196",
+            "year": "1904",
+            "desc": "Dance on the Beach",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Munch%2C_Tanz_am_Meer_%281904%2C_Linde_Frieze%29.jpg"
+        },
+        {
+            "id": "11197",
+            "year": "1892",
+            "desc": "On the Veranda",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Edvard_Munch_-_On_the_Veranda.jpg"
+        },
+        {
+            "id": "11198",
+            "year": "1895",
+            "desc": "Cabaret",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Edvard_Munch_-_Cabaret.jpg"
+        },
+        {
+            "id": "11199",
+            "year": "1900-1901",
+            "desc": "Melancholy, Laura",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Edvard_Munch_-_Melancholy%2C_Laura.jpg"
+        },
+        {
+            "id": "11200",
+            "year": "1909",
+            "desc": "Jappe Nilssen",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jappe_Nilssen_by_Edvard_Munch.jpg"
+        },
+        {
+            "id": "11201",
+            "year": "1906",
+            "desc": "Friedrich Nietzsche Thielska",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Edvard_Munch_Friedrich_Nietzsche_Thielska_292.tif"
+        },
+        {
+            "id": "11202",
+            "year": "1902",
+            "desc": "In the Garden",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Edvard_Munch_-_In_the_Garden.jpg"
+        },
+        {
+            "id": "11203",
+            "year": "1907",
+            "desc": "Jealousy",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11204",
+            "year": "1907",
+            "desc": "Ernest Thiel",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Edvard_Munch_Portrait_of_Ernest_Thiel_Thielska_296.tif"
+        },
+        {
+            "id": "11205",
+            "year": "1902",
+            "desc": "On the Veranda -Two Women",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Edvard_Munch_-_On_the_Veranda_%281902%29.jpg"
+        },
+        {
+            "id": "11206",
+            "year": "1893",
+            "desc": "The storm",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Edvard_Munch_-_The_storm_%281893%29.jpg"
+        },
+        {
+            "id": "11207",
+            "year": "1895-1896",
+            "desc": "Oscar and Ingeborg Heiberg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Edvard_Munch_-_Oscar_and_Ingeborg_Heiberg.jpg"
+        },
+        {
+            "id": "11208",
+            "year": "1906",
+            "desc": "The Village Street",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Edvard_Munch_-_The_Village_Street.jpg"
+        },
+        {
+            "id": "11209",
+            "year": "1883",
+            "desc": "Christian Munch on the Couch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Edvard_Munch_-_Christian_Munch_on_the_Couch_%281%29.jpg"
+        },
+        {
+            "id": "11210",
+            "year": "1913",
+            "desc": "Irmgard Steinbart",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Edvard_Munch_-_Irmgard_Steinbart.jpg"
+        },
+        {
+            "id": "11211",
+            "year": "1893",
+            "desc": "House in Moonlight",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%27House_in_Moonlight%27_by_Edvard_Munch%2C_Bergen_Kunstmuseum.JPG"
+        },
+        {
+            "id": "11212",
+            "year": "1923-1925",
+            "desc": "Autumn by the Greenhouse",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Edvard_Munch_-_Autumn_by_the_Greenhouse_-_Woll_1481.jpg"
+        },
+        {
+            "id": "11213",
+            "year": "1892",
+            "desc": "Seated Young Woman",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/%27Seated_Young_Woman%27_by_Edvard_Munch%2C_Bergen_Kunstmuseum.JPG"
+        },
+        {
+            "id": "11214",
+            "year": "1908",
+            "desc": "Helge Rode",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Edvard_Munch_-_Helge_Rode.jpg"
+        },
+        {
+            "id": "11215",
+            "year": "1905",
+            "desc": "Head by Head",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Edvard_Munch_-_Head_by_Head.jpg"
+        },
+        {
+            "id": "11216",
+            "year": "1901-1902",
+            "desc": "The Fairytale Forest",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edvard_Munch_-_The_Fairytale_Forest.jpg"
+        },
+        {
+            "id": "11217",
+            "year": "1913",
+            "desc": "Elsa Glaser",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Edvard_Munch_-_Elsa_Glaser_-_MM.M.00556_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11218",
+            "year": "1894",
+            "desc": "The Day After",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Edvard_Munch-The_Day_After.jpg"
+        },
+        {
+            "id": "11219",
+            "year": "1893",
+            "desc": "Mermaid on the Shore",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Edvard_Munch_-_Mermaid_on_the_Shore.jpg"
+        },
+        {
+            "id": "11220",
+            "year": "1907",
+            "desc": "Female Portrait ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Edvard_Munch_-_Female_Portrait.jpg"
+        },
+        {
+            "id": "11221",
+            "year": "1899-1902",
+            "desc": "Dark Spruce Forest",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Edvard_Munch_-_Dark_Spruce_Forest_%283%29.jpg"
+        },
+        {
+            "id": "11222",
+            "year": "1907",
+            "desc": "Worker and Child",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Edvard_Munch_-_Worker_and_Child.jpg"
+        },
+        {
+            "id": "11223",
+            "year": "1896",
+            "desc": "Summer Landscape",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Edvard_Munch_-_Summer_Landscape.jpg"
+        },
+        {
+            "id": "11224",
+            "year": "1894",
+            "desc": "Woman, Sphinx",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Edvard_Munch_-_Woman%2C_Sphinx.jpg"
+        },
+        {
+            "id": "11225",
+            "year": "1888",
+            "desc": "Self-portrait",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Edvard_Munch_-_Self-portrait_%281888%3F%29.jpg"
+        },
+        {
+            "id": "11226",
+            "year": "1906",
+            "desc": "Chestnut Trees ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Edvard_Munch_-_Chestnut_Trees.jpg"
+        },
+        {
+            "id": "11227",
+            "year": "1902",
+            "desc": "The Apple Tree",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Edvard_Munch_-_The_Apple_Tree_%281902%29.jpg"
+        },
+        {
+            "id": "11228",
+            "year": "1893",
+            "desc": "Death at the helm",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Edvard_Munch_-_Death_at_the_helm.jpg"
+        },
+        {
+            "id": "11229",
+            "year": "1904",
+            "desc": "Trees on the Shore",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Edvard_Munch_-_Trees_on_the_Shore.jpg"
+        },
+        {
+            "id": "11230",
+            "year": "1896",
+            "desc": "Lady from the sea",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch%2C_Lady_from_the_sea.jpg"
+        },
+        {
+            "id": "11231",
+            "year": "1903",
+            "desc": "Garden in Lübeck",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch_-_Garden_in_L%C3%BCbeck.jpg"
+        },
+        {
+            "id": "11232",
+            "year": "1910",
+            "desc": "History",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Edvard_Munch_-_History_-_MM.M.00966_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11233",
+            "year": "1913",
+            "desc": "On the Sofa",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Edvard_Munch_-_On_the_Sofa_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11234",
+            "year": "1898-1900",
+            "desc": "Boulevard in Paris",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Edvard_Munch_-_Boulevard_in_Paris.jpg"
+        },
+        {
+            "id": "11235",
+            "year": "1920",
+            "desc": "Starry Night",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Edvard_Munch_-_Starry_Night_-_MM.M.00187_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11236",
+            "year": "1910",
+            "desc": "Harvesting Women",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/H%C3%B8stende_kvinner_av_Edvard_Munch.jpg"
+        },
+        {
+            "id": "11237",
+            "year": "1908",
+            "desc": "Head by Head in Landscape",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Edvard_Munch_-_Head_by_Head_in_Landscape.jpg"
+        },
+        {
+            "id": "11238",
+            "year": "1898",
+            "desc": "Holger Drachmann",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Edvard_Munch_-_Holger_Drachmann.jpg"
+        },
+        {
+            "id": "11239",
+            "year": "1891",
+            "desc": "Inger in a White Blouse",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Edvard_Munch_-_Inger_in_a_White_Blouse.jpg"
+        },
+        {
+            "id": "11240",
+            "year": "1898",
+            "desc": "Study of a Model",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch_-_Study_of_a_Model.jpg"
+        },
+        {
+            "id": "11241",
+            "year": "1892",
+            "desc": "Portrait of August Strindberg",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/August_Strindberg_by_Edvard_Munch.jpg"
+        },
+        {
+            "id": "11242",
+            "year": "1905",
+            "desc": "Original Man",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Edvard_Munch_-_Original_Man.jpg"
+        },
+        {
+            "id": "11243",
+            "year": "1904-1907",
+            "desc": "Women on the Bridge",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edvard_Munch_-_Women_on_the_Bridge.jpg"
+        },
+        {
+            "id": "11244",
+            "year": "1893",
+            "desc": "Death in the Sickroom",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Edvard_Munch_-_Death_in_the_Sickroom.jpg"
+        },
+        {
+            "id": "11245",
+            "year": "1888",
+            "desc": "Bendix Lange",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Edvard_Munch_-_Bendix_Lange_-_MEp0154p1.jpg"
+        },
+        {
+            "id": "11246",
+            "year": "1891",
+            "desc": "Arve Arvesen",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Edvard_Munch_-_Arve_Arvesen_-_MEp0252p1.jpg"
+        },
+        {
+            "id": "11247",
+            "year": "1918",
+            "desc": "Landschaft am Meer",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Edvard_Munch_-_Landschaft_am_Meer_%281918%29.jpg"
+        },
+        {
+            "id": "11248",
+            "year": "1916",
+            "desc": "Self-Portrait in Bergen",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edvard_Munch_-_Self-Portrait_in_Bergen_-_MM.M.00263_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11249",
+            "year": "1906-1907",
+            "desc": "Dance by the Sea",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Edvard_Munch_-_Dance_by_the_Sea.jpg"
+        },
+        {
+            "id": "11250",
+            "year": "1907",
+            "desc": "Olga and Rosa Meissner",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%27Olga_and_Rosa_Meissner%27_by_Edvard_Munch%2C_Bergen_Kunstmuseum.JPG"
+        },
+        {
+            "id": "11251",
+            "year": "1882",
+            "desc": "Akerselva by Slåmotgangen",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Edvard_Munch_-_Akerselva_by_Sl%C3%A5motgangen_-_MEp0064p1.jpg"
+        },
+        {
+            "id": "11252",
+            "year": "1882",
+            "desc": "Self-Portrait",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Edvard_Munch_-_Self-Portrait_-_MM.M.01049_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11253",
+            "year": "1888-1889",
+            "desc": "Aasta Carlsen",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Edvard_Munch_-_Aasta_Carlsen.jpg"
+        },
+        {
+            "id": "11254",
+            "year": "1902",
+            "desc": "Fisherman on a Green Meadow",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edvard_Munch_-_Fisherman_on_a_Green_Meadow.jpg"
+        },
+        {
+            "id": "11255",
+            "year": "1907-1908",
+            "desc": "The Drowned Boy",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edvard_Munch_-_The_Drowned_Boy.jpg"
+        },
+        {
+            "id": "11256",
+            "year": "1883",
+            "desc": "Study of a Head ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Edvard_Munch_-_Study_of_a_Head_%281883%29.jpg"
+        },
+        {
+            "id": "11257",
+            "year": "1906",
+            "desc": "Children on the Street",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Edvard_Munch_-_Children_on_the_Street.jpg"
+        },
+        {
+            "id": "11258",
+            "year": "1883",
+            "desc": "Andreas Singdahlsen",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edvard_Munch_-_Andreas_Singdahlsen.jpg"
+        },
+        {
+            "id": "11259",
+            "year": "1903",
+            "desc": "Brothel Scene",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Edvard_Munch_-_Brothel_Scene_%281%29.jpg"
+        },
+        {
+            "id": "11260",
+            "year": "1904-1905",
+            "desc": "Fruit Harvest",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Edvard_Munch_-_Fruit_Harvest.jpg"
+        },
+        {
+            "id": "11261",
+            "year": "1907",
+            "desc": "Walter Rathenau",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/%27Walter_Rathenau%27_by_Edvard_Munch%2C_Stadtmuseum_Berlin_%281907%29.jpg"
+        },
+        {
+            "id": "11262",
+            "year": "1913-1914",
+            "desc": "Gråtende akt",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11263",
+            "year": "1905",
+            "desc": "Portrait of the Painter Ludvig Karsten ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch_Portrait_of_the_Painter_Ludvig_Karsten_Thielska_291.tif"
+        },
+        {
+            "id": "11264",
+            "year": "1899-1900",
+            "desc": "Red and White",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11265",
+            "year": "1880",
+            "desc": "Autumn in the Forest",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Edvard_Munch_-_Autumn_in_the_Forest_%281880%29.jpg"
+        },
+        {
+            "id": "11266",
+            "year": "1908",
+            "desc": "Canal in Warnemünde",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Edvard_Munch_-_Canal_in_Warnem%C3%BCnde_%281%29.jpg"
+        },
+        {
+            "id": "11267",
+            "year": "1891-1892",
+            "desc": "Gamblers in Monte Carlo",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Edvard_Munch_-_Gamblers_in_Monte_Carlo.jpg"
+        },
+        {
+            "id": "11268",
+            "year": "1906-1909",
+            "desc": "Two Women on the Road",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Edvard_Munch_-_Two_Women_on_the_Road.jpg"
+        },
+        {
+            "id": "11269",
+            "year": "1905",
+            "desc": "Trees and Torpedo Boat",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Edvard_Munch_-_Trees_and_Torpedo_Boat.jpg"
+        },
+        {
+            "id": "11270",
+            "year": "1920-1924",
+            "desc": "Fields in Springtime",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Edvard_Munch_-_Fields_in_Springtime_-_MM.M.00319_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11271",
+            "year": "1903",
+            "desc": "Self-Portrait in Hell",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Edvard_Munch_-_Self-Portrait_in_Hell_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11272",
+            "year": "1908",
+            "desc": "Canal in Warnemünde",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Edvard_Munch_-_Canal_in_Warnem%C3%BCnde_-_MM.M.00084_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11273",
+            "year": "1899",
+            "desc": "Dark Spruce Forest",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Edvard_Munch_-_Dark_Spruce_Forest_-_MM.M.00337_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11274",
+            "year": "1902",
+            "desc": "The Hearse on Potsdamer Platz",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Edvard_Munch_-_The_Hearse_on_Potsdamer_Platz.jpg"
+        },
+        {
+            "id": "11275",
+            "year": "1917",
+            "desc": "The Haymaker",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Edvard_Munch_-_The_Haymaker_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11276",
+            "year": "1915",
+            "desc": "Cabbage Field",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edvard_Munch_-_Cabbage_Field_-_MM.M.00103_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11277",
+            "year": "1907",
+            "desc": "Boy from Warnemünde ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Edvard_Munch_-_Boy_from_Warnem%C3%BCnde_-_MEp0756p1.jpg"
+        },
+        {
+            "id": "11278",
+            "year": "1921-1930",
+            "desc": "Summer at Ekely",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Edvard_Munch_-_Summer_at_Ekely_-_MM.M.00303_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11279",
+            "year": "1906",
+            "desc": "Self-Portrait with a Bottle of Wine",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_MM.M.00543_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11280",
+            "year": "1919",
+            "desc": "Self-Portrait after the Spanish Flu",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Edvard_Munch_-_Self-Portrait_after_the_Spanish_Flu_-_MM.M.00069_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11281",
+            "year": "1881",
+            "desc": "Christian Munch on the Couch",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Edvard_Munch_-_Christian_Munch_on_the_Couch_-_MM.M.01048_-_Munch_Museum.jpg"
+        },
+        {
+            "id": "11282",
+            "year": "1903",
+            "desc": "Four Girls in Åsgårdstrand",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand.jpg"
+        },
+        {
+            "id": "11283",
+            "year": "1896",
+            "desc": "The Voice , Summer Night",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg"
+        },
+        {
+            "id": "11284",
+            "year": "1899-1900",
+            "desc": "Eye in Eye",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edvard_Munch_-_Eye_in_Eye.jpg"
         }
     ],
     "Fredric Edwkin Church": [
@@ -34207,10 +35241,40 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Die_gelbe_Kuh_WP_Hintergrund_vorne.jpg"
         },
         {
+            "id": "1202",
+            "year": "from 1860 until 1900",
+            "desc": "This art work is entitled, The Temptation of St Anthony.",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/De_verzoeking_van_de_heilige_Antonius_de_Heremiet._Rijksmuseum_SK-A-3240.jpeg"
+        },
+        {
             "id": "1203",
             "year": "1905",
             "desc": "This art work is called Heuwagen. ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Franz_Marc_-_Heuwagen_-_12288_-_Bavarian_State_Painting_Collections.jpg"
+        },
+        {
+            "id": "1204",
+            "year": "1902",
+            "desc": "This art work is called Heidekraut. ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Franz_Marc_-_Heidekraut_-_14962_-_Bavarian_State_Painting_Collections.jpg"
+        },
+        {
+            "id": "1236",
+            "year": "1904",
+            "desc": "This painting is called,\" Indersdorf\"",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Marc-Indersdorf.jpg"
+        },
+        {
+            "id": "1237",
+            "year": "1912",
+            "desc": "This mural painting is named,\" Paradise\".",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Macke_u._Marc%2C_Paradies%2C_1912.jpg"
+        },
+        {
+            "id": "1238",
+            "year": "1914",
+            "desc": "This art work is called, \"Caliban\".",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Franz_Marc_004.jpg"
         },
         {
             "id": "1293",
@@ -34317,38 +35381,6 @@
             "year": "1599",
             "desc": "This picture is called, The Return to Amsterdam of the Second Expedition to the East Indies. ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/De_terugkomst_in_Amsterdam_van_de_tweede_expeditie_naar_Oost-Indi%C3%AB_Rijksmuseum_SK-A-2858.jpeg"
-        }
-    ],
-    "Franz Marc ": [
-        {
-            "id": "1202",
-            "year": "from 1860 until 1900",
-            "desc": "This art work is entitled, The Temptation of St Anthony.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/De_verzoeking_van_de_heilige_Antonius_de_Heremiet._Rijksmuseum_SK-A-3240.jpeg"
-        },
-        {
-            "id": "1204",
-            "year": "1902",
-            "desc": "This art work is called Heidekraut. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Franz_Marc_-_Heidekraut_-_14962_-_Bavarian_State_Painting_Collections.jpg"
-        },
-        {
-            "id": "1236",
-            "year": "1904",
-            "desc": "This painting is called,\" Indersdorf\"",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Marc-Indersdorf.jpg"
-        },
-        {
-            "id": "1237",
-            "year": "1912",
-            "desc": "This mural painting is named,\" Paradise\".",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Macke_u._Marc%2C_Paradies%2C_1912.jpg"
-        },
-        {
-            "id": "1238",
-            "year": "1914",
-            "desc": "This art work is called, \"Caliban\".",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Franz_Marc_004.jpg"
         }
     ],
     "Vincent van Gogh": [
@@ -40929,20 +41961,6 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ISS-46_San_Fransisco%2C_California.jpg"
         }
     ],
-    "Jebulon ": [
-        {
-            "id": "1522",
-            "year": "",
-            "desc": "This art work is a dipiction of the creation of man ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/MANNapoli_6705_creation_of_the_man_sarcophagus.jpg"
-        },
-        {
-            "id": "1779",
-            "year": "",
-            "desc": "This art work is a dipiction of the creation of man ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/MANNapoli_6705_creation_of_the_man_sarcophagus.jpg"
-        }
-    ],
     "Newberry, J. A": [
         {
             "id": "1526",
@@ -46281,6 +47299,90 @@
             "year": "",
             "desc": "This image is from the book Children of the Winter",
             "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Children_of_winter_pg_9.jpg"
+        },
+        {
+            "id": "6527",
+            "year": "",
+            "desc": "This is an image from a book",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Title_page-Flower_Children-1-0009-0.png"
+        },
+        {
+            "id": "6528",
+            "year": "1912",
+            "desc": "This image is called, \" Bird children \"",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Purple_Martin-Bird_Children-0057-43.png"
+        },
+        {
+            "id": "6529",
+            "year": "1912",
+            "desc": "This art form is from Battimore Oriole Plate No. 19",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Baltimore_Oriole-Bird_Children-0033-19.png"
+        },
+        {
+            "id": "6530",
+            "year": "1912",
+            "desc": "This art form is from Battimore Oriole Plate No. 39",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Red_-_winged_Black_-_bird-Bird_Children-0053-39.png"
+        },
+        {
+            "id": "6531",
+            "year": "1912",
+            "desc": "This art is from page 7 of Mother Earth's Children",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mother_Earth%27s_Children_pg_7a.jpg"
+        },
+        {
+            "id": "6532",
+            "year": "1912",
+            "desc": "The title of this publication is ,\"Puck's pyrotechnics,\"",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Puck%27s_pyrotechnics_-_Fourth-of-July_fireworks_free_to_all_-_Opper_%26_Co._LCCN2012647221.jpg"
+        },
+        {
+            "id": "6533",
+            "year": "1912",
+            "desc": "This image is from Daffodol Plate No. 2",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Daffodil-Flower_Children-0017-2.png"
+        },
+        {
+            "id": "6534",
+            "year": "1912",
+            "desc": "This image is of the Blue Jade Plate No. 60",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Blue_Jay-Bird_Children-0074-60.png"
+        },
+        {
+            "id": "6536",
+            "year": "1912",
+            "desc": "This image is of the Barn Swallow Plate No 71",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Barn_Swallow-Bird_Children-0085-71.png"
+        },
+        {
+            "id": "6537",
+            "year": "1912",
+            "desc": "This image is of Goldfinch Plate No. 37",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Goldfinch-Bird_Children-0051-37.png"
+        },
+        {
+            "id": "6538",
+            "year": "1912",
+            "desc": "This image is of Snow Bird Plate No. 80",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Snow_Bird-Bird_Children-0094-80.png"
+        },
+        {
+            "id": "6539",
+            "year": "1912",
+            "desc": "This image is of Wind-Flower plate No. 10",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Wind_-_flower-Flower_Children-0024-10.png"
+        },
+        {
+            "id": "6540",
+            "year": "1912",
+            "desc": "This image is of Pheobe Bird Plate No. 81",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Phoebe_Bird-Bird_Children-0095-81.png"
+        },
+        {
+            "id": "6541",
+            "year": "1912",
+            "desc": "This image is of Humming Bird Plate No. 53",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Humming_Bird-Bird_Children-0067-53.png"
         }
     ],
     "Scott Bauer": [
@@ -47227,7 +48329,7 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Common_clownfish.jpg"
         }
     ],
-    "Henry Mayer ": [
+    "Henry Mayer": [
         {
             "id": "2595",
             "year": "1915",
@@ -47265,1034 +48367,6 @@
             "year": "1920",
             "desc": "This is a photographic reproduction of the landscape art work by Wilhelm Degode ",
             "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wilhelm_Degode_Sommertag_in_Kaiserswerth_1920.jpg"
-        }
-    ],
-    "Edvard Munch": [
-        {
-            "id": "2612",
-            "year": "between 1920 and 1923",
-            "desc": "The title of this art work is Two women in the woods at Ekely",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Edvard_Munch_-_Two_women_in_the_woods_at_Ekely_%281920%E2%80%9323%29.jpg"
-        },
-        {
-            "id": "2781",
-            "year": "1893",
-            "desc": "Expressionist portrait by Edvard Munch considered one of the most important works in the history of art. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/800px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
-        },
-        {
-            "id": "2782",
-            "year": "1894",
-            "desc": "Impressionist Portrait of the Virgin Mary by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2783",
-            "year": "1907",
-            "desc": "Edvard Munch's work narrating the suffering of his older sister.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg/800px-Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg"
-        },
-        {
-            "id": "2784",
-            "year": "1895",
-            "desc": "Expressionist painting depicting the passion of lovers by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edvard_Munch_-_Ashes_%281895%29.jpg/800px-Edvard_Munch_-_Ashes_%281895%29.jpg"
-        },
-        {
-            "id": "2785",
-            "year": "1899-1900",
-            "desc": "Expressionist painting by Edvard Munch depicting different generations at a ball.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg/800px-Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg"
-        },
-        {
-            "id": "2786",
-            "year": "1892",
-            "desc": "Painting by Edvard Munch inspired by the Russian gambler Dostoevsky.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2787",
-            "year": "1893",
-            "desc": "Painting by Edvard Munch showing death in the room of the sick woman",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2788",
-            "year": "1893",
-            "desc": "Oil painting on canvas by Edvard Munch depicting a night landscape.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG/800px-%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG"
-        },
-        {
-            "id": "2789",
-            "year": "1894",
-            "desc": "Symbolist painting by Edvard Munch that later became known as expressionism.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2790",
-            "year": "1895",
-            "desc": "The expressionist artist, Edvard Munch, has depicted love and pain through the figure of a vampire. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2791",
-            "year": "1896",
-            "desc": "Painting by Edvard Munch depicting the loss of a man",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_Separation_-_Google_Art_Project.jpg/796px-Edvard_Munch_-_Separation_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2792",
-            "year": "1896",
-            "desc": "Expressionist painting by Edvard Munch with a woman in the foreground and cold colors.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2793",
-            "year": "1899-1900",
-            "desc": "Painting by Edvard Munch representing passion and purity.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2794",
-            "year": "1900",
-            "desc": "Religious-themed painting with expressionist treatment by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Edvard_Munch_-_Golgotha_%281900%29.jpg/800px-Edvard_Munch_-_Golgotha_%281900%29.jpg"
-        },
-        {
-            "id": "2795",
-            "year": "1910-1911",
-            "desc": "Colorful painting by Edvard Munch reminiscent of the aesthetics of mosaics. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg/1024px-Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2796",
-            "year": "1907",
-            "desc": "Depiction of Jealousy, the darker side of love, by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2797",
-            "year": "1903",
-            "desc": "Expressionist painting by Edvard Munch with erratic brushstrokes and morbid appearance.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2798",
-            "year": "1910-1912",
-            "desc": "Painting by Edvard Munch with a horse in the center of the composition",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2799",
-            "year": "1912",
-            "desc": "Edvard Munch's landscape painting characterized by light and bright colors.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2800",
-            "year": "1913-1914",
-            "desc": "Expressionist painting by Edvard Munch depicting the symptoms of modern society",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2801",
-            "year": "1844-1845",
-            "desc": "Portrait with expressive strokes by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puberty_%281894-95%29_by_Edvard_Munch.jpg/800px-Puberty_%281894-95%29_by_Edvard_Munch.jpg"
-        },
-        {
-            "id": "2802",
-            "year": "1896",
-            "desc": "Expressionist painting by Edvard Munch reflecting the importance of the muses in his art.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch%2C_Lady_from_the_sea.jpg"
-        },
-        {
-            "id": "2803",
-            "year": "1913-1914",
-            "desc": "Edvard Munch's painting depicting a nude woman in an uncomfortable and unusual pose.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2804",
-            "year": "1906",
-            "desc": "Psychological Self-Portrait by Edvard Munch ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2805",
-            "year": "1940-1943",
-            "desc": "Munch's work depicting old age and loneliness through a self-portrait",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG/800px-Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG"
-        },
-        {
-            "id": "2806",
-            "year": "1900",
-            "desc": " Painting representing the modernization of society by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2807",
-            "year": "1904",
-            "desc": "Landscape painting in warm colors reflecting restlessness by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpgg"
-        },
-        {
-            "id": "2808",
-            "year": "1930",
-            "desc": "Winter painting composed of cold colors, with triangular position by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG/800px-%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG"
-        },
-        {
-            "id": "2809",
-            "year": "1922",
-            "desc": "Night landscape painting centered on the starry sky by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg/800px-Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg"
-        },
-        {
-            "id": "2810",
-            "year": "1918",
-            "desc": "Landscape based on curved lines by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg/800px-Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg"
-        },
-        {
-            "id": "2979",
-            "year": "1893",
-            "desc": "Expressionist portrait by Edvard Munch considered one of the most important works in the history of art. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/800px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
-        },
-        {
-            "id": "2980",
-            "year": "1894",
-            "desc": "Impressionist Portrait of the Virgin Mary by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Madonna_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2981",
-            "year": "1907",
-            "desc": "Edvard Munch's work narrating the suffering of his older sister.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg/800px-Edvard_Munch_-_The_sick_child_%281907%29_-_Tate_Modern.jpg"
-        },
-        {
-            "id": "2982",
-            "year": "1895",
-            "desc": "Expressionist painting depicting the passion of lovers by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edvard_Munch_-_Ashes_%281895%29.jpg/800px-Edvard_Munch_-_Ashes_%281895%29.jpg"
-        },
-        {
-            "id": "2983",
-            "year": "1899-1900",
-            "desc": "Expressionist painting by Edvard Munch depicting different generations at a ball.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg/800px-Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg"
-        },
-        {
-            "id": "2984",
-            "year": "1892",
-            "desc": "Painting by Edvard Munch inspired by the Russian gambler Dostoevsky.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_At_the_Roulette_Table_in_Monte_Carlo_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2985",
-            "year": "1893",
-            "desc": "Painting by Edvard Munch showing death in the room of the sick woman",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Death_in_the_Sickroom_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2986",
-            "year": "1893",
-            "desc": "Oil painting on canvas by Edvard Munch depicting a night landscape.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG/800px-%27Starry_Night%27_by_Edvard_Munch%2C_1893%2C_Getty_Center.JPG"
-        },
-        {
-            "id": "2987",
-            "year": "1894",
-            "desc": "Symbolist painting by Edvard Munch that later became known as expressionism.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2988",
-            "year": "1895",
-            "desc": "The expressionist artist, Edvard Munch, has depicted love and pain through the figure of a vampire. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2989",
-            "year": "1896",
-            "desc": "Painting by Edvard Munch depicting the loss of a man",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_Separation_-_Google_Art_Project.jpg/796px-Edvard_Munch_-_Separation_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2990",
-            "year": "1896",
-            "desc": "Expressionist painting by Edvard Munch with a woman in the foreground and cold colors.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2991",
-            "year": "1899-1900",
-            "desc": "Painting by Edvard Munch representing passion and purity.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2992",
-            "year": "1900",
-            "desc": "Religious-themed painting with expressionist treatment by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Edvard_Munch_-_Golgotha_%281900%29.jpg/800px-Edvard_Munch_-_Golgotha_%281900%29.jpg"
-        },
-        {
-            "id": "2993",
-            "year": "1910-1911",
-            "desc": "Colorful painting by Edvard Munch reminiscent of the aesthetics of mosaics. ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg/1024px-Edvard_Munch_-_The_Sun_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2994",
-            "year": "1907",
-            "desc": "Depiction of Jealousy, the darker side of love, by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2995",
-            "year": "1903",
-            "desc": "Expressionist painting by Edvard Munch with erratic brushstrokes and morbid appearance.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2996",
-            "year": "1910-1912",
-            "desc": "Painting by Edvard Munch with a horse in the center of the composition",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Galloping_Horse_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2997",
-            "year": "1912",
-            "desc": "Edvard Munch's landscape painting characterized by light and bright colors.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_The_Yellow_Log_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2998",
-            "year": "1913-1914",
-            "desc": "Expressionist painting by Edvard Munch depicting the symptoms of modern society",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "2999",
-            "year": "1844-1845",
-            "desc": "Portrait with expressive strokes by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puberty_%281894-95%29_by_Edvard_Munch.jpg/800px-Puberty_%281894-95%29_by_Edvard_Munch.jpg"
-        },
-        {
-            "id": "3000",
-            "year": "1896",
-            "desc": "Expressionist painting by Edvard Munch reflecting the importance of the muses in his art.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch%2C_Lady_from_the_sea.jpg"
-        },
-        {
-            "id": "3001",
-            "year": "1913-1914",
-            "desc": "Edvard Munch's painting depicting a nude woman in an uncomfortable and unusual pose.",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "3002",
-            "year": "1906",
-            "desc": "Psychological Self-Portrait by Edvard Munch ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "3003",
-            "year": "1940-1943",
-            "desc": "Munch's work depicting old age and loneliness through a self-portrait",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG/800px-Edvard_Munch%2C_Selvportrett._Mellom_klokken_og_sengen.JPG"
-        },
-        {
-            "id": "3004",
-            "year": "1900",
-            "desc": " Painting representing the modernization of society by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Train_Smoke_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "3005",
-            "year": "1904",
-            "desc": "Landscape painting in warm colors reflecting restlessness by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpg/800px-Edvard_Munch_-_Shore_with_Red_House_-_Google_Art_Project.jpgg"
-        },
-        {
-            "id": "3006",
-            "year": "1930",
-            "desc": "Winter painting composed of cold colors, with triangular position by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG/800px-%27Winter_Night%2C_Ekely%27_by_Edvard_Munch%2C_1930-31.JPG"
-        },
-        {
-            "id": "3007",
-            "year": "1922",
-            "desc": "Night landscape painting centered on the starry sky by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg/800px-Edvard_Munch%2C_1922%2C_Starry_Night%2C_Munch_Museum%2C_Oslo.jpg"
-        },
-        {
-            "id": "3008",
-            "year": "1918",
-            "desc": "Landscape based on curved lines by Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg/800px-Edvard_Munch%2C_1918%2C_Coastal_Landscape%2C_oil_on_canvas%2C_120.9_x_160_cm%2C_Kunstmuseum_Basel.jpg"
-        },
-        {
-            "id": "11175",
-            "year": "1892",
-            "desc": "Melancholy",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Munch_Melankoli_1892.jpg"
-        },
-        {
-            "id": "11176",
-            "year": "1900",
-            "desc": "Torvald Stang and Edvard Munch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Edvard_Munch_-_Torvald_Stang_and_Edvard_Munch_-_MM.M.00139_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11177",
-            "year": "1903",
-            "desc": "The Family ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Edvard_Munch_The_Family_Thielska_288.tif"
-        },
-        {
-            "id": "11178",
-            "year": "1907",
-            "desc": "The Sick Child",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Edvard_Munch_The_Sick_Child_Thielska_289.tif"
-        },
-        {
-            "id": "11179",
-            "year": "1903",
-            "desc": "On the Bridge",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Edvard_Munch_On_the_Bridge_Thielska_287.tif"
-        },
-        {
-            "id": "11180",
-            "year": "1905",
-            "desc": "Three Children",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Edvard_Munch_Three_Children_Thielska_290.tif"
-        },
-        {
-            "id": "11181",
-            "year": "1911",
-            "desc": "The Sun",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Solen_av_Edvard_Munch.jpg"
-        },
-        {
-            "id": "11182",
-            "year": "1906",
-            "desc": "The Oak ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edvard_Munch_The_Oak_Thielska_294.tif"
-        },
-        {
-            "id": "11183",
-            "year": "1894-1895",
-            "desc": "Madonna",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg"
-        },
-        {
-            "id": "11184",
-            "year": "1897",
-            "desc": "The Kiss",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11185",
-            "year": "1910",
-            "desc": "The Scream",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11186",
-            "year": "1894",
-            "desc": "Angst",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11187",
-            "year": "1898-1900",
-            "desc": "Red Virginia Creeper",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Edvard_Munch%2C_R%C3%B8d_villvin.JPG"
-        },
-        {
-            "id": "11188",
-            "year": "1909",
-            "desc": "Self-Portrait in the Clinc",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Edvard_Munch%2C_Selvportrett_fra_klinikken.JPG"
-        },
-        {
-            "id": "11189",
-            "year": "1894",
-            "desc": "Portrait of Helge Bäckström",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Edvard_Munch_Portrait_of_Helge_B%C3%A4ckstr%C3%B6m_Thielska_296b.tif"
-        },
-        {
-            "id": "11190",
-            "year": "1906",
-            "desc": "The Murderess",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Edvard_Munch_-_The_Murderess.jpg"
-        },
-        {
-            "id": "11191",
-            "year": "1895",
-            "desc": "Vampire",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11192",
-            "year": "1884",
-            "desc": "Morning",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Edvard_Munch_-_Morning_%281884%29.jpg"
-        },
-        {
-            "id": "11193",
-            "year": "1907",
-            "desc": "Jealousy",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Edvard_Munch_-_Jealousy_-_MM.M.00614_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11194",
-            "year": "1882",
-            "desc": "Laura Munch ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Edvard_Munch_-_Laura_Munch.jpg"
-        },
-        {
-            "id": "11195",
-            "year": "1902",
-            "desc": "Fertility",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Edvard_Munch_-_Fertility.jpg"
-        },
-        {
-            "id": "11196",
-            "year": "1904",
-            "desc": "Dance on the Beach",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Munch%2C_Tanz_am_Meer_%281904%2C_Linde_Frieze%29.jpg"
-        },
-        {
-            "id": "11197",
-            "year": "1892",
-            "desc": "On the Veranda",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Edvard_Munch_-_On_the_Veranda.jpg"
-        },
-        {
-            "id": "11198",
-            "year": "1895",
-            "desc": "Cabaret",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Edvard_Munch_-_Cabaret.jpg"
-        },
-        {
-            "id": "11199",
-            "year": "1900-1901",
-            "desc": "Melancholy, Laura",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Edvard_Munch_-_Melancholy%2C_Laura.jpg"
-        },
-        {
-            "id": "11200",
-            "year": "1909",
-            "desc": "Jappe Nilssen",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jappe_Nilssen_by_Edvard_Munch.jpg"
-        },
-        {
-            "id": "11201",
-            "year": "1906",
-            "desc": "Friedrich Nietzsche Thielska",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Edvard_Munch_Friedrich_Nietzsche_Thielska_292.tif"
-        },
-        {
-            "id": "11202",
-            "year": "1902",
-            "desc": "In the Garden",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Edvard_Munch_-_In_the_Garden.jpg"
-        },
-        {
-            "id": "11203",
-            "year": "1907",
-            "desc": "Jealousy",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edvard_Munch_-_Jealousy_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11204",
-            "year": "1907",
-            "desc": "Ernest Thiel",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Edvard_Munch_Portrait_of_Ernest_Thiel_Thielska_296.tif"
-        },
-        {
-            "id": "11205",
-            "year": "1902",
-            "desc": "On the Veranda -Two Women",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Edvard_Munch_-_On_the_Veranda_%281902%29.jpg"
-        },
-        {
-            "id": "11206",
-            "year": "1893",
-            "desc": "The storm",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Edvard_Munch_-_The_storm_%281893%29.jpg"
-        },
-        {
-            "id": "11207",
-            "year": "1895-1896",
-            "desc": "Oscar and Ingeborg Heiberg",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Edvard_Munch_-_Oscar_and_Ingeborg_Heiberg.jpg"
-        },
-        {
-            "id": "11208",
-            "year": "1906",
-            "desc": "The Village Street",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Edvard_Munch_-_The_Village_Street.jpg"
-        },
-        {
-            "id": "11209",
-            "year": "1883",
-            "desc": "Christian Munch on the Couch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Edvard_Munch_-_Christian_Munch_on_the_Couch_%281%29.jpg"
-        },
-        {
-            "id": "11210",
-            "year": "1913",
-            "desc": "Irmgard Steinbart",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Edvard_Munch_-_Irmgard_Steinbart.jpg"
-        },
-        {
-            "id": "11211",
-            "year": "1893",
-            "desc": "House in Moonlight",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/%27House_in_Moonlight%27_by_Edvard_Munch%2C_Bergen_Kunstmuseum.JPG"
-        },
-        {
-            "id": "11212",
-            "year": "1923-1925",
-            "desc": "Autumn by the Greenhouse",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Edvard_Munch_-_Autumn_by_the_Greenhouse_-_Woll_1481.jpg"
-        },
-        {
-            "id": "11213",
-            "year": "1892",
-            "desc": "Seated Young Woman",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/%27Seated_Young_Woman%27_by_Edvard_Munch%2C_Bergen_Kunstmuseum.JPG"
-        },
-        {
-            "id": "11214",
-            "year": "1908",
-            "desc": "Helge Rode",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Edvard_Munch_-_Helge_Rode.jpg"
-        },
-        {
-            "id": "11215",
-            "year": "1905",
-            "desc": "Head by Head",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Edvard_Munch_-_Head_by_Head.jpg"
-        },
-        {
-            "id": "11216",
-            "year": "1901-1902",
-            "desc": "The Fairytale Forest",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edvard_Munch_-_The_Fairytale_Forest.jpg"
-        },
-        {
-            "id": "11217",
-            "year": "1913",
-            "desc": "Elsa Glaser",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Edvard_Munch_-_Elsa_Glaser_-_MM.M.00556_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11218",
-            "year": "1894",
-            "desc": "The Day After",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Edvard_Munch-The_Day_After.jpg"
-        },
-        {
-            "id": "11219",
-            "year": "1893",
-            "desc": "Mermaid on the Shore",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Edvard_Munch_-_Mermaid_on_the_Shore.jpg"
-        },
-        {
-            "id": "11220",
-            "year": "1907",
-            "desc": "Female Portrait ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Edvard_Munch_-_Female_Portrait.jpg"
-        },
-        {
-            "id": "11221",
-            "year": "1899-1902",
-            "desc": "Dark Spruce Forest",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Edvard_Munch_-_Dark_Spruce_Forest_%283%29.jpg"
-        },
-        {
-            "id": "11222",
-            "year": "1907",
-            "desc": "Worker and Child",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Edvard_Munch_-_Worker_and_Child.jpg"
-        },
-        {
-            "id": "11223",
-            "year": "1896",
-            "desc": "Summer Landscape",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Edvard_Munch_-_Summer_Landscape.jpg"
-        },
-        {
-            "id": "11224",
-            "year": "1894",
-            "desc": "Woman, Sphinx",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Edvard_Munch_-_Woman%2C_Sphinx.jpg"
-        },
-        {
-            "id": "11225",
-            "year": "1888",
-            "desc": "Self-portrait",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Edvard_Munch_-_Self-portrait_%281888%3F%29.jpg"
-        },
-        {
-            "id": "11226",
-            "year": "1906",
-            "desc": "Chestnut Trees ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Edvard_Munch_-_Chestnut_Trees.jpg"
-        },
-        {
-            "id": "11227",
-            "year": "1902",
-            "desc": "The Apple Tree",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Edvard_Munch_-_The_Apple_Tree_%281902%29.jpg"
-        },
-        {
-            "id": "11228",
-            "year": "1893",
-            "desc": "Death at the helm",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Edvard_Munch_-_Death_at_the_helm.jpg"
-        },
-        {
-            "id": "11229",
-            "year": "1904",
-            "desc": "Trees on the Shore",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Edvard_Munch_-_Trees_on_the_Shore.jpg"
-        },
-        {
-            "id": "11230",
-            "year": "1896",
-            "desc": "Lady from the sea",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch%2C_Lady_from_the_sea.jpg"
-        },
-        {
-            "id": "11231",
-            "year": "1903",
-            "desc": "Garden in Lübeck",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch_-_Garden_in_L%C3%BCbeck.jpg"
-        },
-        {
-            "id": "11232",
-            "year": "1910",
-            "desc": "History",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Edvard_Munch_-_History_-_MM.M.00966_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11233",
-            "year": "1913",
-            "desc": "On the Sofa",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Edvard_Munch_-_On_the_Sofa_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11234",
-            "year": "1898-1900",
-            "desc": "Boulevard in Paris",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Edvard_Munch_-_Boulevard_in_Paris.jpg"
-        },
-        {
-            "id": "11235",
-            "year": "1920",
-            "desc": "Starry Night",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Edvard_Munch_-_Starry_Night_-_MM.M.00187_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11236",
-            "year": "1910",
-            "desc": "Harvesting Women",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/H%C3%B8stende_kvinner_av_Edvard_Munch.jpg"
-        },
-        {
-            "id": "11237",
-            "year": "1908",
-            "desc": "Head by Head in Landscape",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Edvard_Munch_-_Head_by_Head_in_Landscape.jpg"
-        },
-        {
-            "id": "11238",
-            "year": "1898",
-            "desc": "Holger Drachmann",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Edvard_Munch_-_Holger_Drachmann.jpg"
-        },
-        {
-            "id": "11239",
-            "year": "1891",
-            "desc": "Inger in a White Blouse",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Edvard_Munch_-_Inger_in_a_White_Blouse.jpg"
-        },
-        {
-            "id": "11240",
-            "year": "1898",
-            "desc": "Study of a Model",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch_-_Study_of_a_Model.jpg"
-        },
-        {
-            "id": "11241",
-            "year": "1892",
-            "desc": "Portrait of August Strindberg",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/August_Strindberg_by_Edvard_Munch.jpg"
-        },
-        {
-            "id": "11242",
-            "year": "1905",
-            "desc": "Original Man",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Edvard_Munch_-_Original_Man.jpg"
-        },
-        {
-            "id": "11243",
-            "year": "1904-1907",
-            "desc": "Women on the Bridge",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edvard_Munch_-_Women_on_the_Bridge.jpg"
-        },
-        {
-            "id": "11244",
-            "year": "1893",
-            "desc": "Death in the Sickroom",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Edvard_Munch_-_Death_in_the_Sickroom.jpg"
-        },
-        {
-            "id": "11245",
-            "year": "1888",
-            "desc": "Bendix Lange",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Edvard_Munch_-_Bendix_Lange_-_MEp0154p1.jpg"
-        },
-        {
-            "id": "11246",
-            "year": "1891",
-            "desc": "Arve Arvesen",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Edvard_Munch_-_Arve_Arvesen_-_MEp0252p1.jpg"
-        },
-        {
-            "id": "11247",
-            "year": "1918",
-            "desc": "Landschaft am Meer",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Edvard_Munch_-_Landschaft_am_Meer_%281918%29.jpg"
-        },
-        {
-            "id": "11248",
-            "year": "1916",
-            "desc": "Self-Portrait in Bergen",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edvard_Munch_-_Self-Portrait_in_Bergen_-_MM.M.00263_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11249",
-            "year": "1906-1907",
-            "desc": "Dance by the Sea",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Edvard_Munch_-_Dance_by_the_Sea.jpg"
-        },
-        {
-            "id": "11250",
-            "year": "1907",
-            "desc": "Olga and Rosa Meissner",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%27Olga_and_Rosa_Meissner%27_by_Edvard_Munch%2C_Bergen_Kunstmuseum.JPG"
-        },
-        {
-            "id": "11251",
-            "year": "1882",
-            "desc": "Akerselva by Slåmotgangen",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Edvard_Munch_-_Akerselva_by_Sl%C3%A5motgangen_-_MEp0064p1.jpg"
-        },
-        {
-            "id": "11252",
-            "year": "1882",
-            "desc": "Self-Portrait",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Edvard_Munch_-_Self-Portrait_-_MM.M.01049_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11253",
-            "year": "1888-1889",
-            "desc": "Aasta Carlsen",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Edvard_Munch_-_Aasta_Carlsen.jpg"
-        },
-        {
-            "id": "11254",
-            "year": "1902",
-            "desc": "Fisherman on a Green Meadow",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edvard_Munch_-_Fisherman_on_a_Green_Meadow.jpg"
-        },
-        {
-            "id": "11255",
-            "year": "1907-1908",
-            "desc": "The Drowned Boy",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edvard_Munch_-_The_Drowned_Boy.jpg"
-        },
-        {
-            "id": "11256",
-            "year": "1883",
-            "desc": "Study of a Head ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Edvard_Munch_-_Study_of_a_Head_%281883%29.jpg"
-        },
-        {
-            "id": "11257",
-            "year": "1906",
-            "desc": "Children on the Street",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Edvard_Munch_-_Children_on_the_Street.jpg"
-        },
-        {
-            "id": "11258",
-            "year": "1883",
-            "desc": "Andreas Singdahlsen",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Edvard_Munch_-_Andreas_Singdahlsen.jpg"
-        },
-        {
-            "id": "11259",
-            "year": "1903",
-            "desc": "Brothel Scene",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Edvard_Munch_-_Brothel_Scene_%281%29.jpg"
-        },
-        {
-            "id": "11260",
-            "year": "1904-1905",
-            "desc": "Fruit Harvest",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Edvard_Munch_-_Fruit_Harvest.jpg"
-        },
-        {
-            "id": "11261",
-            "year": "1907",
-            "desc": "Walter Rathenau",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/%27Walter_Rathenau%27_by_Edvard_Munch%2C_Stadtmuseum_Berlin_%281907%29.jpg"
-        },
-        {
-            "id": "11262",
-            "year": "1913-1914",
-            "desc": "Gråtende akt",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edvard_Munch_-_Weeping_Nude_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11263",
-            "year": "1905",
-            "desc": "Portrait of the Painter Ludvig Karsten ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Edvard_Munch_Portrait_of_the_Painter_Ludvig_Karsten_Thielska_291.tif"
-        },
-        {
-            "id": "11264",
-            "year": "1899-1900",
-            "desc": "Red and White",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11265",
-            "year": "1880",
-            "desc": "Autumn in the Forest",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Edvard_Munch_-_Autumn_in_the_Forest_%281880%29.jpg"
-        },
-        {
-            "id": "11266",
-            "year": "1908",
-            "desc": "Canal in Warnemünde",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Edvard_Munch_-_Canal_in_Warnem%C3%BCnde_%281%29.jpg"
-        },
-        {
-            "id": "11267",
-            "year": "1891-1892",
-            "desc": "Gamblers in Monte Carlo",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Edvard_Munch_-_Gamblers_in_Monte_Carlo.jpg"
-        },
-        {
-            "id": "11268",
-            "year": "1906-1909",
-            "desc": "Two Women on the Road",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Edvard_Munch_-_Two_Women_on_the_Road.jpg"
-        },
-        {
-            "id": "11269",
-            "year": "1905",
-            "desc": "Trees and Torpedo Boat",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Edvard_Munch_-_Trees_and_Torpedo_Boat.jpg"
-        },
-        {
-            "id": "11270",
-            "year": "1920-1924",
-            "desc": "Fields in Springtime",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Edvard_Munch_-_Fields_in_Springtime_-_MM.M.00319_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11271",
-            "year": "1903",
-            "desc": "Self-Portrait in Hell",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Edvard_Munch_-_Self-Portrait_in_Hell_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11272",
-            "year": "1908",
-            "desc": "Canal in Warnemünde",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Edvard_Munch_-_Canal_in_Warnem%C3%BCnde_-_MM.M.00084_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11273",
-            "year": "1899",
-            "desc": "Dark Spruce Forest",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Edvard_Munch_-_Dark_Spruce_Forest_-_MM.M.00337_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11274",
-            "year": "1902",
-            "desc": "The Hearse on Potsdamer Platz",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Edvard_Munch_-_The_Hearse_on_Potsdamer_Platz.jpg"
-        },
-        {
-            "id": "11275",
-            "year": "1917",
-            "desc": "The Haymaker",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Edvard_Munch_-_The_Haymaker_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11276",
-            "year": "1915",
-            "desc": "Cabbage Field",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edvard_Munch_-_Cabbage_Field_-_MM.M.00103_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11277",
-            "year": "1907",
-            "desc": "Boy from Warnemünde ",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Edvard_Munch_-_Boy_from_Warnem%C3%BCnde_-_MEp0756p1.jpg"
-        },
-        {
-            "id": "11278",
-            "year": "1921-1930",
-            "desc": "Summer at Ekely",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Edvard_Munch_-_Summer_at_Ekely_-_MM.M.00303_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11279",
-            "year": "1906",
-            "desc": "Self-Portrait with a Bottle of Wine",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Edvard_Munch_-_Self-Portrait_with_a_Bottle_of_Wine_-_MM.M.00543_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11280",
-            "year": "1919",
-            "desc": "Self-Portrait after the Spanish Flu",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Edvard_Munch_-_Self-Portrait_after_the_Spanish_Flu_-_MM.M.00069_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11281",
-            "year": "1881",
-            "desc": "Christian Munch on the Couch",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Edvard_Munch_-_Christian_Munch_on_the_Couch_-_MM.M.01048_-_Munch_Museum.jpg"
-        },
-        {
-            "id": "11282",
-            "year": "1903",
-            "desc": "Four Girls in Åsgårdstrand",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Edvard_Munch_-_Four_Girls_in_%C3%85sg%C3%A5rdstrand.jpg"
-        },
-        {
-            "id": "11283",
-            "year": "1896",
-            "desc": "The Voice , Summer Night",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edvard_Munch_-_The_Voice_%2C_Summer_Night_-_Google_Art_Project.jpg"
-        },
-        {
-            "id": "11284",
-            "year": "1899-1900",
-            "desc": "Eye in Eye",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Edvard_Munch_-_Eye_in_Eye.jpg"
         }
     ],
     "Friedrich Kallmorgen": [
@@ -50651,7 +50725,7 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Otto_Eckmann_-_Jugend_Nr._36%2C_1897.jpg/320px-Otto_Eckmann_-_Jugend_Nr._36%2C_1897.jpg"
         }
     ],
-    "William Morris ": [
+    "William Morris": [
         {
             "id": "2910",
             "year": "1862",
@@ -50663,9 +50737,7 @@
             "year": "1876",
             "desc": "Work with various patterns made up of flowers by William Morris.",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Morris_Snakeshead_printed_textile_1876_v_2.jpg/320px-Morris_Snakeshead_printed_textile_1876_v_2.jpg"
-        }
-    ],
-    "William Morris": [
+        },
         {
             "id": "2912",
             "year": "1875",
@@ -50865,15 +50937,13 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grasset_-_Junge_Frau_in_einem_Garten.jpg/793px-Grasset_-_Junge_Frau_in_einem_Garten.jpg"
         }
     ],
-    "Théophile Steinlen ": [
+    "Théophile Steinlen": [
         {
             "id": "2943",
             "year": "1895",
             "desc": "Poster of a woman and a girl with a cat on the table by Théophile Steinlen.",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Compagnie_Fran%C3%A7aise_des_Chocolats_et_des_Th%C3%A8s_MET_DT270090.jpg/320px-Compagnie_Fran%C3%A7aise_des_Chocolats_et_des_Th%C3%A8s_MET_DT270090.jpg"
-        }
-    ],
-    "Théophile Steinlen": [
+        },
         {
             "id": "2944",
             "year": "1899",
@@ -59805,15 +59875,13 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Robert_Cecil%2C_1st_Earl_of_Salisbury_by_John_De_Critz_the_Elder_%282%29.jpg"
         }
     ],
-    "Daniël Mijtens ": [
+    "Daniël Mijtens": [
         {
             "id": "4375",
             "year": "1621",
             "desc": "Portrait of James I on his throne, by Daniël Mijtens",
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/James_I_of_England_by_Daniel_Mytens.jpg/800px-James_I_of_England_by_Daniel_Mytens.jpg"
-        }
-    ],
-    "Daniël Mijtens": [
+        },
         {
             "id": "4376",
             "year": "1629",
@@ -60003,45 +60071,13 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pierre_Daru.jpg"
         }
     ],
-    "George Romney ": [
+    "George Romney": [
         {
             "id": "4408",
             "year": "1795",
             "desc": "Self-Portrait by George Romney",
             "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/1795_Self-Portrait_by_George_Romney_-_Metropolitan_Museum_of_Art.jpg"
         },
-        {
-            "id": "4411",
-            "year": "1786",
-            "desc": "Portrait of Lady Anne de la Pole that stands out for the detail in her clothes by George Romney",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/AnneTemplerByRomney.jpg"
-        },
-        {
-            "id": "4414",
-            "year": "1782",
-            "desc": "Portrait of Lady Hamilton on an Abstract Background by George Romney",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg"
-        },
-        {
-            "id": "4417",
-            "year": "1790 - 1792",
-            "desc": "Portrait of Archibald Campbell by George Romney",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ArchibaldCampbell.jpg"
-        },
-        {
-            "id": "4421",
-            "year": "1793",
-            "desc": "Colorful Portrait of a Shakespeare Play by George Romney",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lady_Hamilton_as_Titania_with_Puck_and_Changeling_%28Romney%2C_1793%29.jpg"
-        },
-        {
-            "id": "4424",
-            "year": "-",
-            "desc": "Portrait of a Woman in the Foreground in Ochre Colors by George Romney",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/William_Cowper_by_George_Romney.jpg"
-        }
-    ],
-    "George Romney": [
         {
             "id": "4409",
             "year": "1776 -1777",
@@ -60053,6 +60089,12 @@
             "year": "1782",
             "desc": "Portrait of Emma Hamilton acting by George Romney",
             "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/George_Romney%2C_Emma_Hart%2C_Lady_Hamilton_as_Circe%2C_1782_at_Waddesdon_Manor.jpg"
+        },
+        {
+            "id": "4411",
+            "year": "1786",
+            "desc": "Portrait of Lady Anne de la Pole that stands out for the detail in her clothes by George Romney",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/AnneTemplerByRomney.jpg"
         },
         {
             "id": "4412",
@@ -60067,6 +60109,12 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/George_Romney_002.jpg"
         },
         {
+            "id": "4414",
+            "year": "1782",
+            "desc": "Portrait of Lady Hamilton on an Abstract Background by George Romney",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg"
+        },
+        {
             "id": "4415",
             "year": "1785",
             "desc": "Painting depicting a scene from Macbeth by George Romney",
@@ -60077,6 +60125,12 @@
             "year": "1792",
             "desc": "Portrait of Lady Hamilton as The Magdalene by George Romney",
             "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/George_Romney_-_Lady_Hamilton_as_The_Magdalene.jpg"
+        },
+        {
+            "id": "4417",
+            "year": "1790 - 1792",
+            "desc": "Portrait of Archibald Campbell by George Romney",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ArchibaldCampbell.jpg"
         },
         {
             "id": "4418",
@@ -60097,6 +60151,12 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_infant_Shakespeare_attended_by_Nature_and_the_Passions_%28Romney%2C_c._1791-1792%29.jpg"
         },
         {
+            "id": "4421",
+            "year": "1793",
+            "desc": "Colorful Portrait of a Shakespeare Play by George Romney",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lady_Hamilton_as_Titania_with_Puck_and_Changeling_%28Romney%2C_1793%29.jpg"
+        },
+        {
             "id": "4422",
             "year": "1786",
             "desc": "Portrait of Sir Christopher and Lady Sykes by George Romney",
@@ -60107,6 +60167,12 @@
             "year": "1776",
             "desc": "Portrait of a Man Posing on a Landscape of Darkness by George Romney",
             "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Joseph_Brant_painting_by_George_Romney_1776.jpg"
+        },
+        {
+            "id": "4424",
+            "year": "-",
+            "desc": "Portrait of a Woman in the Foreground in Ochre Colors by George Romney",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/William_Cowper_by_George_Romney.jpg"
         },
         {
             "id": "4425",
@@ -68449,92 +68515,6 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Cheops_Pyramid%2C_Grand_Canyon_by_Gunnar_Widforss%2C_watercolor.jpg"
         }
     ],
-    " Elizabeth Gordon": [
-        {
-            "id": "6527",
-            "year": "",
-            "desc": "This is an image from a book",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Title_page-Flower_Children-1-0009-0.png"
-        },
-        {
-            "id": "6528",
-            "year": "1912",
-            "desc": "This image is called, \" Bird children \"",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Purple_Martin-Bird_Children-0057-43.png"
-        },
-        {
-            "id": "6529",
-            "year": "1912",
-            "desc": "This art form is from Battimore Oriole Plate No. 19",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Baltimore_Oriole-Bird_Children-0033-19.png"
-        },
-        {
-            "id": "6530",
-            "year": "1912",
-            "desc": "This art form is from Battimore Oriole Plate No. 39",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Red_-_winged_Black_-_bird-Bird_Children-0053-39.png"
-        },
-        {
-            "id": "6531",
-            "year": "1912",
-            "desc": "This art is from page 7 of Mother Earth's Children",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mother_Earth%27s_Children_pg_7a.jpg"
-        },
-        {
-            "id": "6532",
-            "year": "1912",
-            "desc": "The title of this publication is ,\"Puck's pyrotechnics,\"",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Puck%27s_pyrotechnics_-_Fourth-of-July_fireworks_free_to_all_-_Opper_%26_Co._LCCN2012647221.jpg"
-        },
-        {
-            "id": "6533",
-            "year": "1912",
-            "desc": "This image is from Daffodol Plate No. 2",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Daffodil-Flower_Children-0017-2.png"
-        },
-        {
-            "id": "6534",
-            "year": "1912",
-            "desc": "This image is of the Blue Jade Plate No. 60",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Blue_Jay-Bird_Children-0074-60.png"
-        },
-        {
-            "id": "6536",
-            "year": "1912",
-            "desc": "This image is of the Barn Swallow Plate No 71",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Barn_Swallow-Bird_Children-0085-71.png"
-        },
-        {
-            "id": "6537",
-            "year": "1912",
-            "desc": "This image is of Goldfinch Plate No. 37",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Goldfinch-Bird_Children-0051-37.png"
-        },
-        {
-            "id": "6538",
-            "year": "1912",
-            "desc": "This image is of Snow Bird Plate No. 80",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Snow_Bird-Bird_Children-0094-80.png"
-        },
-        {
-            "id": "6539",
-            "year": "1912",
-            "desc": "This image is of Wind-Flower plate No. 10",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Wind_-_flower-Flower_Children-0024-10.png"
-        },
-        {
-            "id": "6540",
-            "year": "1912",
-            "desc": "This image is of Pheobe Bird Plate No. 81",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Phoebe_Bird-Bird_Children-0095-81.png"
-        },
-        {
-            "id": "6541",
-            "year": "1912",
-            "desc": "This image is of Humming Bird Plate No. 53",
-            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Humming_Bird-Bird_Children-0067-53.png"
-        }
-    ],
     "Caldecott, Randolph": [
         {
             "id": "6542",
@@ -76649,7 +76629,7 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Achim_detail.jpg"
         }
     ],
-    "Henri Julien Félix Rousseau ": [
+    "Henri Julien Félix Rousseau": [
         {
             "id": "10910",
             "year": "1910",
@@ -77125,7 +77105,7 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Signed_henri_rousseau.jpg"
         }
     ],
-    "Alphonse Maria Mucha ": [
+    "Alphonse Maria Mucha": [
         {
             "id": "11510",
             "year": "1896",

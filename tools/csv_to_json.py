@@ -1,14 +1,16 @@
+from collections import defaultdict
 import csv
 import json
-from pprint import pprint
-from typing import OrderedDict
 
 if __name__ == '__main__':
-    art_dict = OrderedDict()
+    art_dict = defaultdict(list)
     with open('Art.csv', encoding='utf-8', mode='r') as csv_file:
         rdr = csv.reader(csv_file, delimiter=',')
-        for i, row in enumerate(rdr):
+        for _, row in enumerate(rdr):
             id_, artist, year, desc, url_ = row[0], row[1], row[2], row[3], None
+            if not artist:
+                artist = "_Others"
+            
             for val in row:
                 if 'upload.wikimedia' in val:
                     url_ = val
@@ -16,8 +18,8 @@ if __name__ == '__main__':
             else:
                 continue
             
-            if artist not in art_dict:
-                art_dict[artist] = []
+            # just in case
+            artist = artist.strip()
 
             new_dict = {}
             new_dict['id'] = id_
