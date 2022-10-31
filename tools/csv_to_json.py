@@ -19,11 +19,11 @@ if __name__ == '__main__':
                 continue
             
             # just in case
-            artist = artist.strip()
+            artist = artist.strip().replace('/', ' - ')
 
             new_dict = {}
             new_dict['id'] = id_
-            new_dict['year'] = year
+            new_dict['year'] = year if year else '(no year)'
             new_dict['desc'] = desc
             new_dict['url']  = url_
             art_dict[artist].append(new_dict)
