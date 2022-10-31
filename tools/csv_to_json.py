@@ -9,7 +9,7 @@ if __name__ == '__main__':
         for _, row in enumerate(rdr):
             id_, artist, year, desc, url_ = row[0], row[1], row[2], row[3], None
             if not artist:
-                artist = "_Others"
+                artist = "(Others)"
             
             for val in row:
                 if 'upload.wikimedia' in val:
