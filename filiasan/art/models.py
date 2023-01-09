@@ -10,7 +10,7 @@ class ArtistModel(models.Model):
 
 class ArtModel(models.Model):
     artist = models.ForeignKey(ArtistModel, null=False, on_delete=models.CASCADE)
-    year = models.DateField(null=True, default=None)
+    year = models.CharField(max_length=20, null=True, default=None)
     desc = models.TextField(default='', null=False)
     url = models.CharField(max_length=1024, null=False)
     orig_id = models.IntegerField(null=False)
