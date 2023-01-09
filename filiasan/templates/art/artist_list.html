@@ -10,7 +10,7 @@
     <h1>Public Domain Art</h1>
     <ul>
     {% for artist in artists %}
-    <li><a href="/art/{{ artist }}/">{{ artist }}</a></li>
+    <li><a href="/art/{{ artist }}/">{{ artist.name }}</a></li>
     {% endfor %}
     </ul>
 </body>

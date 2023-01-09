@@ -1,11 +1,9 @@
 from django.shortcuts import render
-import json
+from .models import ArtistModel, ArtModel
 
 
 def artist_list(request):
-    with open('../Art.json', encoding='utf-8', mode='r') as json_file:
-        data = json.load(json_file)
-        artists = sorted(data.keys())
+    artists = ArtistModel.objects.all().order_by("name")
 
     return render(request, 'art/artist_list.html', context={
         'artists': artists,
@@ -13,10 +11,9 @@ def artist_list(request):
 
 
 def artist_detail(request, artist):
-    with open('../Art.json', encoding='utf-8', mode='r') as json_file:
-        data = json.load(json_file)
+    works = ArtModel.objects.filter(artist__name=artist).order_by("year")
 
     return render(request, 'art/artist_detail.html', context={
         'artist': artist,
-        'data_list': data[artist],
+        'works': works,
     })

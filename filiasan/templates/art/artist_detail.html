@@ -6,15 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ artist }}</title>
+    <style>
+        img { width: 500px }
+    </style>     
 </head>
 
 <body>
 
-    {% for data in data_list %}
+    {% for art in works %}
     <p>
-        <img src="{{ data.url }}" alt="{{ data.desc }}" width="800">
+        <img src="{{ art.url }}" alt="{{ art.desc }}">
         <br>
-        <b>{{ data.year }}</b> - <a href="{{ data.url }}">{{ data.desc }}</a>
+        <b>{{ art.year }}</b> - <a href="{{ art.url }}">{{ art.desc }}</a>
     </p>
     {% endfor %}
 
