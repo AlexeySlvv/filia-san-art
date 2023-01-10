@@ -19,7 +19,7 @@ class DirectoryModel(models.Model):
 
 class AnythingModel(models.Model):
     directory = models.ForeignKey(DirectoryModel, null=False, on_delete=models.CASCADE)
-    image_name = models.CharField(max_length=256, null=False)
+    name = models.CharField(max_length=256, null=False)
 
     def __str__(self):
-        return self.image_name
+        return self.name
