@@ -4,7 +4,7 @@ from .models import SeasonModel, DirectoryModel, AnythingModel
 
 def season_list(request):
     return render(request, "app_anything/season_list.html", context={
-        "seasons": SeasonModel.objects.all(),
+        "seasons": SeasonModel.objects.all().order_by("order"),
     })
 
 
