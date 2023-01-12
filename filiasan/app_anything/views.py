@@ -17,9 +17,7 @@ def season_detail(request, season):
 
 def directory_detail(request, season, directory):
     dir = DirectoryModel.objects.filter(name=directory).first()
-    print(dir)
     images = AnythingModel.objects.filter(directory__name=directory)
-    print(images)
 
     return render(request, "app_anything/directory_detail.html", context={
         "season": season, 
