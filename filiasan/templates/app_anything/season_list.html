@@ -8,11 +8,12 @@
 </head>
 <body>
 
-    <h3>Images were created with <a href="https://huggingface.co/Linaqruf/anything-v3.0">Anything V3</a> model</h3>
+    <h3>Images were generated with <a href="https://huggingface.co/Linaqruf/anything-v3.0">Anything V3</a> model</h3>
 
     {% for s in seasons %}
     <p>
-        <a href="/anything/{{ s.name }}">{{ s.name }}</a>
+        <h3><a href="/anything/{{ s.name }}/">{{ s.name }}</h3>
+        <a href="/anything/{{ s.name }}/"><img src="/media/seasons/{{ s.name }}.png" alt="{{ s.name }}"></a>
     </p>
     {% endfor %}
 
