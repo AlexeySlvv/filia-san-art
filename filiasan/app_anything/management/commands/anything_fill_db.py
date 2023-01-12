@@ -37,6 +37,7 @@ class Command(BaseCommand):
 
                 with open(os.path.join(dir, "prompt.txt"), "r", encoding="utf-8") as f_prompt:
                     prompt = f_prompt.read().strip()
+                    prompt = ", ".join(sorted(prompt.split(", ")))
 
                 directory = DirectoryModel.objects.filter(name=prompt_dir, prompt=prompt).first()
                 if not directory:
