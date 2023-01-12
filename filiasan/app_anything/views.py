@@ -11,7 +11,7 @@ def season_list(request):
 def season_detail(request, season):
     return render(request, "app_anything/season_detail.html", context={
         "season_name": season,
-        "directories": DirectoryModel.objects.filter(season__name=season),
+        "directories": DirectoryModel.objects.filter(season__name=season).order_by("prompt"),
     })
 
 
