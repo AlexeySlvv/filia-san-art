@@ -9,6 +9,8 @@
 <body>
     <h3>{{ dir.prompt }}</h3>
 
+    <h3><a href="/anything/{{ season }}">Season view</a></h3>
+
     {% for img in images %}
         <p><img src="/media/anything/{{ season }}/{{ dir.name }}/{{ img.name }}" alt="{{ dir.prompt }}"></p>
     {% endfor %}

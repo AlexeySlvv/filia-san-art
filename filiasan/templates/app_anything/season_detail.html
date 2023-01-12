@@ -10,6 +10,8 @@
     
     <h3>{{ season_name }}</h3>
 
+    <h3><a href="/anything/">Season list</a></h3>
+
     {% for d in directories %}
         <p>
             <a href="/anything/{{ season_name }}/{{ d.name }}/">{{ d.prompt }}</a>
