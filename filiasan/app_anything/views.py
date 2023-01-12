@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import SeasonModel, DirectoryModel
+from .models import SeasonModel, DirectoryModel, AnythingModel
 
 
 def season_list(request):
@@ -12,4 +12,17 @@ def season_detail(request, season):
     return render(request, "app_anything/season_detail.html", context={
         "season_name": season,
         "directories": DirectoryModel.objects.filter(season__name=season),
+    })
+
+
+def directory_detail(request, season, directory):
+    dir = DirectoryModel.objects.filter(name=directory).first()
+    print(dir)
+    images = AnythingModel.objects.filter(directory__name=directory)
+    print(images)
+
+    return render(request, "app_anything/directory_detail.html", context={
+        "season": season, 
+        "dir": dir, 
+        "images": images, 
     })

@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ prompt_name }}</title>
+    <title>{{ dir.prompt }}</title>
 </head>
 <body>
-    
+    <h3>{{ dir.prompt }}</h3>
+
+    {% for img in images %}
+        <p><img src="/media/anything/{{ season }}/{{ dir.name }}/{{ img.name }}" alt="{{ dir.prompt }}"></p>
+    {% endfor %}
+
 </body>
 </html>

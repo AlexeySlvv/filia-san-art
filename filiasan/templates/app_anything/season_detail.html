@@ -8,5 +8,11 @@
 </head>
 <body>
     
+    {% for d in directories %}
+        <p>
+            <a href="/anything/{{ season_name }}/{{ d.name }}">{{ d.prompt }}</a>
+        </p>
+    {% endfor %}
+
 </body>
 </html>

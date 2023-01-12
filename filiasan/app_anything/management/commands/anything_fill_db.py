@@ -8,13 +8,13 @@ class Command(BaseCommand):
     help = 'Fill anything database'
 
     def handle(self, *args, **kwargs):
-        #  Anything directory\
-        #    Season directory\
-        #      Prompt directory \
+        #  anything\
+        #    <Season>\
+        #      <date_time>\
         #        prompt.txt
         #        image1.png
         #        image2.png
-        anything_dir = os.environ.get("ANYTHING_DIRECTORY")
+        anything_dir = r"media/anything/"
         season_dirs = [ 
             s for s in os.listdir(anything_dir) 
             if os.path.isdir(os.path.join(anything_dir, s)) 
