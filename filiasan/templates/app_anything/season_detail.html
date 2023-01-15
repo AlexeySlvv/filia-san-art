@@ -8,6 +8,7 @@
 </head>
 <body>
     
+    <div style="margin: 20px;">
     <h3>{{ season_name }}</h3>
 
     <h3><a href="/anything/">Season list</a></h3>
@@ -17,6 +18,7 @@
             <a href="/anything/{{ season_name }}/{{ d.name }}/">{{ d.prompt }}</a>
         </p>
     {% endfor %}
+    </div>
 
 </body>
 </html>

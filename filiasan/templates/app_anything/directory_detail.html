@@ -7,13 +7,20 @@
     <title>{{ dir.prompt }}</title>
 </head>
 <body>
+    <div style="margin: 20px;">
     <h3>{{ dir.prompt }}</h3>
 
     <h3><a href="/anything/{{ season }}">Season view</a></h3>
+    </div>
 
-    {% for img in images %}
-        <p><img src="/media/anything/{{ season }}/{{ dir.name }}/{{ img.name }}" alt="{{ dir.prompt }}"></p>
-    {% endfor %}
+    <div class="directory" style="display: flex; flex-wrap: wrap; flex-direction: row;">
+        {% for img in images %}
+            <div style="display: flex; flex-direction: column; margin: 20px;">
+                <img src="/media/anything/{{ season }}/{{ dir.name }}/{{ img.name }}" alt="{{ dir.prompt }}">
+            </div>
+        {% endfor %}
+    </div>
+
 
 </body>
 </html>
