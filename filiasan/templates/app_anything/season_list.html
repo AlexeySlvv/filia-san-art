@@ -7,15 +7,20 @@
     <title>Anything you want</title>
 </head>
 <body>
+    
+    <div style="display: block;">
+        <h3 style="text-align: center;">Images were generated with <a href="https://huggingface.co/Linaqruf/anything-v3.0">Anything V3</a> model</h3>
+    </div>
 
-    <h3>Images were generated with <a href="https://huggingface.co/Linaqruf/anything-v3.0">Anything V3</a> model</h3>
+    <div class="seasons" style="display: flex; flex-wrap: wrap; flex-direction: row;">
+        {% for s in seasons %}
 
-    {% for s in seasons %}
-    <p>
-        <h3><a href="/anything/{{ s.name }}/">{{ s.name }}</h3>
-        <a href="/anything/{{ s.name }}/"><img src="/media/seasons/{{ s.name }}.png" alt="{{ s.name }}"></a>
-    </p>
-    {% endfor %}
+        <div style="display: flex; flex-direction: column; margin: 20px;">
+            <h3 style="align-self: center;"><a href="/anything/{{ s.name }}/">{{ s.name }}</h3>
+            <a href="/anything/{{ s.name }}/"><img src="/media/seasons/{{ s.name }}.png" alt="{{ s.name }}"></a>
+        </div>
+        {% endfor %}
+    </div>
 
 </body>
 </html>
