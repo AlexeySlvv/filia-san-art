@@ -1,3 +1,3 @@
 Django code of 
 
-http://filia-san.ru/art
+http://filia-san.ru/
